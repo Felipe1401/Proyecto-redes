@@ -44,7 +44,7 @@ Traffic Shaping detected!
 
 ## Autores
 
-* **Nicolás Araya** - [UsuarioGitHub](https://github.com/)
+* **Nicolás Araya** - [NicolasAraya932](https://github.com/NicolasAraya932)
 * **Felipe Gómez** - [Felipe1401](https://github.com/Felipe1401/)
 * **Manuel Muñoz** - [ManuelM11](https://github.com/ManuelM11)
 
