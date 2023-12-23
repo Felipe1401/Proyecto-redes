@@ -3,7 +3,8 @@
 
 Repositorio con códigos y resultados del proyecto de redes.
 
-## [VIDEO](https://drive.google.com/file/d/1w9xS00OmmHX5C1YwFISXsqPhQyAeo-qu/view?usp=sharing)
+## Video
+El video se encuentra disponible en el siguiente [link](https://drive.google.com/file/d/1w9xS00OmmHX5C1YwFISXsqPhQyAeo-qu/view?usp=sharing).
 
 ## Comenzando
 
