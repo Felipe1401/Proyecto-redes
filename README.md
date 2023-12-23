@@ -3,6 +3,8 @@
 
 Repositorio con códigos y resultados del proyecto de redes.
 
+## [VIDEO](https://drive.google.com/file/d/1w9xS00OmmHX5C1YwFISXsqPhQyAeo-qu/view?usp=sharing)
+
 ## Comenzando
 
 Estas instrucciones proporcionarán una copia del proyecto en funcionamiento en su máquina local para fines de testing.
